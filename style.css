@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	
+	background-color: rgb(247, 243, 243);
+	text-align: center;
+	padding-bottom: 30px;
+
+
+}
+.container h1{
+	color:rgb(97, 97, 241);
+	padding: 20px;
+}
+.container-fluid{
+	margin: 0 auto;
+	width: 50%;
+	background-color: white;
+	padding: 10px 15px;
+
+}
+.container-fluid h4{
+	padding: 10px 20px;
+	color: rgb(87, 70, 70);
+}
+#emailAdress{
+	
+	width: 95%;
+	height: 30px;
+}
+#PasswordValue{
+	width:95%;
+	height: 30px;
+}
+.log{
+	border-radius: 3px;
+	border-color:rgb(93, 93, 231) ;
+	width:95%;
+	height:30px;
+	background-color: rgb(93, 93, 231);
+	margin-bottom: 10px;
+	
+}
+.log label{
+	color:white;
+}
+.create{
+	width:55%;
+	height:30px;
+	border-radius: 3px;
+	border-color: rgb(114, 199, 29);
+	background-color: rgb(114, 199, 29);
+	margin-top: 7px;
+}
+.create label{
+	color: white;
+}
